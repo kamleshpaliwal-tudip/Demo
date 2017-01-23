@@ -1,0 +1,15 @@
+﻿#thumbsup
+{
+    width: 130px;
+    height: 130px;
+    background: url(../images/thumbs.jpg) 0 0 no-repeat;
+   border:10px solid red;
+}
+#thumbsdown
+{
+    width: 130px;
+    height: 130px;
+    background: url(../images/thumbs.jpg) -135px 0 no-repeat;
+ border:10px solid green;
+
+}

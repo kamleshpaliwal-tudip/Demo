@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+<div id="header">
+ Registration form
+
+</div>
+<div class="form">
+
+<form action="action_page.php">
+ first name:<br>
+ <input type="text" name="first name" value="">
+ <br>
+ last name:<br>
+ <input type="text" name="last name" value=""/>
+ <br/>
+ <input type="radio" name="gender" value="male"> male<br>
+<input type="radio" NAME="GENDER" VALUE="FEMale">female<br>
+  <input type="radio" name="gender" value="others">others<br>
+  
+   
+   cars:<br>
+    <select name="cars">
+    <option value="cars">cars</option>
+    <option value="lambo">lambo</option>
+    <option value="fiat">Fiat</option>
+    <option value="audi">Audi</option>
+  </select>
+  <br>
+  
+  <textarea name="message" rows="5" cols="15" >this is my text area. </textarea> 
+  <br>
+  <button type="button onclick ="alert("hello world")">Click Me!</button>
+  
+ <input type="submit" value="submit"<br>
+ </form> 
+</div>
+<div>
+
+<p>If you click the "Submit" button, 
+the form-data will be sent to a page called "action_page.php".</p>
+</div>
+
+</body>
+</html>

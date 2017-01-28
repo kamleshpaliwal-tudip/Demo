@@ -1,0 +1,205 @@
+﻿
+div.relative {
+    position: relative;
+    width: 80VV;
+    height:95vH;
+    border: 3px solid black;
+} 
+div.rectangle1 {
+   
+    position: absolute;
+    top: 5vh;
+    right: 3vw;
+    width: 32vw;
+    height: 35vh;
+    border: 3px solid black;
+}
+div.rectangle2 {
+   
+    position: absolute;
+    bottom: 5vh;
+    right: 3vw;
+    width: 32vw;
+    height: 35vh;
+    border: 3px solid black;
+}
+div.rectangle3 {
+   
+    position: absolute;
+    bottom: 5vh;
+    left: 3vw;
+    width: 32vw;
+    height: 35vh;
+    border: 3px solid black;
+}
+div.rectangle4 {
+   
+    position: absolute;
+    top: 5vh;
+    left: 3vw;
+    width: 32vw;
+    height: 35vh;
+    border: 3px solid black;
+}
+div.circle {
+    border-radius: 50%;
+    position: absolute;
+    top: 33vh;
+    margin-left: 42vw;    
+    width:  16vw;
+    height: 32vh;
+    border: 3px solid #73AD21;
+}
+div #round1 {
+    border-radius: 50%;
+    position: absolute;
+    top: 2vh;
+    left:24vw;
+    width: 6vw;
+    height: 12vh;
+    border: 3px solid red;
+}
+div #round2 {
+    border-radius: 50%;
+    position: absolute;
+    top: 19vh;
+    left:24vw;
+    width: 6vw;
+    height: 12vh;
+    border: 3px solid red;
+}
+div #round3 {
+    border-radius: 50%;
+    position: absolute;
+    top: 19vh;
+    left:3vw;
+    width: 6vw;
+    height: 12vh;
+    border: 3px solid red;
+}
+div #round4 {
+    border-radius: 50%;
+    position: absolute;
+    top: 2vh;
+    left:3vw;
+    width: 6vw;
+    height: 12vh;
+    border: 3px solid red;
+}
+div #round5 {
+    border-radius: 50%;
+    position: absolute;
+    top: 10vh;
+    left:14vw;
+    width: 6vw;
+    height: 12vh;
+    border: 3px solid red;
+}
+div #roundrect1 {
+    border-radius: 25px;
+    position: absolute;
+    top: 2vh;
+    left: 2vw;
+    width: 9vw;
+    height: 12vh;
+    border: 3px solid purple;
+}
+div #roundrect2 {
+    border-radius: 25px;
+    position: absolute;
+    top: 2vh;
+    left: 20vw;
+    width: 9vw;
+    height: 12vh;
+    border: 3px solid purple;
+}
+div #roundrect3 {
+    border-radius: 25px;
+    position: absolute;
+    top: 20vh;
+    left: 2vw;
+    width: 9vw;
+    height: 12vh;
+    border: 3px solid purple;
+}
+div #roundrect4 {
+    border-radius: 25px;
+    position: absolute;
+    top: 20vh;
+    left: 20vw;
+    width: 9vw;
+    height: 12vh;
+    border: 3px solid purple;
+}
+div #rect1 {
+    position: absolute;
+    top: 3vh;
+    left: 2vw;
+    width: 9vw;
+    height: 12vh;
+    border: 3px solid blue;
+}
+div #rect2 {
+    position: absolute;
+    top: 3vh;
+    left: 20vw;
+    width: 9vw;
+    height: 12vh;
+    border: 3px solid blue;
+}
+div #rect3 {
+    position: absolute;
+    top: 20vh;
+    left: 20vw;
+    width: 9vw;
+    height: 12vh;
+    border: 3px solid blue;
+}
+div #rect4 {
+    position: absolute;
+    top: 20vh;
+    left: 2vw;
+    width: 9vw;
+    height: 12vh;
+    border: 3px solid blue;
+}
+div #square1 {
+    position: absolute;
+    top: 2vh;
+    left: 2vw;
+    width: 6vw;
+    height: 11vh;
+    border: 3px solid black;
+}
+div #square2 {
+    position: absolute;
+    top: 2vh;
+    left: 23vw;
+    width: 6vw;
+    height: 11vh;
+    border: 3px solid black;
+}
+div #square3 {
+    position: absolute;
+    top: 20vh;
+    left: 2vw;
+    width: 6vw;
+    height: 11vh;
+    border: 3px solid black;
+}
+div #square4 {
+    position: absolute;
+    top: 20vh;
+    left: 23vw;
+    width: 6vw;
+    height: 11vh;
+    border: 3px solid black;
+}
+div #square5 {
+    position: absolute;
+    top: 11vh;
+    left: 12vw;
+    width: 6vw;
+    height: 11vh;
+    border: 3px solid black;
+}

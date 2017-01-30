@@ -48,7 +48,7 @@ div.circle {
     margin-left: 42vw;    
     width:  16vw;
     height: 32vh;
-    border: 3px solid #73AD21;
+    border: 3px solid red;
 }
 div #round1 {
     border-radius: 50%;
@@ -96,7 +96,7 @@ div #round5 {
     border: 3px solid red;
 }
 div #roundrect1 {
-    border-radius: 25px;
+    border-radius: 40%;
     position: absolute;
     top: 2vh;
     left: 2vw;
@@ -105,7 +105,7 @@ div #roundrect1 {
     border: 3px solid purple;
 }
 div #roundrect2 {
-    border-radius: 25px;
+    border-radius: 40%;
     position: absolute;
     top: 2vh;
     left: 20vw;
@@ -114,7 +114,7 @@ div #roundrect2 {
     border: 3px solid purple;
 }
 div #roundrect3 {
-    border-radius: 25px;
+    border-radius: 40%;
     position: absolute;
     top: 20vh;
     left: 2vw;
@@ -123,7 +123,7 @@ div #roundrect3 {
     border: 3px solid purple;
 }
 div #roundrect4 {
-    border-radius: 25px;
+    border-radius: 40%;
     position: absolute;
     top: 20vh;
     left: 20vw;
@@ -135,7 +135,7 @@ div #rect1 {
     position: absolute;
     top: 3vh;
     left: 2vw;
-    width: 9vw;
+    width: 10vw;
     height: 12vh;
     border: 3px solid blue;
 }
@@ -143,7 +143,7 @@ div #rect2 {
     position: absolute;
     top: 3vh;
     left: 20vw;
-    width: 9vw;
+    width: 10vw;
     height: 12vh;
     border: 3px solid blue;
 }
@@ -151,7 +151,7 @@ div #rect3 {
     position: absolute;
     top: 20vh;
     left: 20vw;
-    width: 9vw;
+    width: 10vw;
     height: 12vh;
     border: 3px solid blue;
 }
@@ -159,7 +159,7 @@ div #rect4 {
     position: absolute;
     top: 20vh;
     left: 2vw;
-    width: 9vw;
+    width: 10vw;
     height: 12vh;
     border: 3px solid blue;
 }

@@ -5,23 +5,8 @@
 <script>
 i = 0;
 $(document).ready(function(){
-    $("input").keypress(function(){
-        $("span").text(i += 1);
-    });
-});
-</script>
-</head>
-<body>
-
-<!DOCTYPE html>
-<html>
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script>
-i = 0;
-$(document).ready(function(){
     $("#input1").keyup(function(){
-        i=i+0;
+        i=i+1;
         $("#key").val(i);
     });
 });
